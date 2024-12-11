@@ -1,6 +1,70 @@
-# Screenshots
+# 🧳 Travelbag Pack - A Native Android App for Packing List Management 🧳
 
-Here are the screenshots of my project in a grid layout:
+<img src="https://user-images.githubusercontent.com/your_image_url/bag-packing-app.gif" width="900">
+
+## 🌟 Table of Contents
+- [Overview](#-overview-)
+- [Key Features](#-key-features-)
+- [Technologies Used](#-technologies-used-)
+- [Screenshots](#-screenshots-)
+- [Ending Note](#-ending-note-)
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/your_image_url/bag-packing-app.gif" width="900">
+
+## 🌟 Overview 🌟
+Travelbag Pack is a powerful and easy-to-use Android app designed to help users create, manage, and organize packing lists for their trips. With sections for Documents, Clothing, Personal Care and more, this app enables users to tick off and pack items from default packing lists, add custom items, and manage their selections with ease. 
+
+Whether you're preparing for a business trip, vacation, or any other travel, Travelbag Pack keeps everything organized and helps ensure you don't forget any essentials!
+
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/your_image_url/bag-packing-app.gif" width="900">
+
+## ✨ Key Features ✨
+- *📋 Default Packing Lists*
+  - Choose from 10 pre-defined packing lists like Documents, Clothing, Personal Care, etc.
+  - Mark items as packed by ticking the checkboxes, and remove them by unticking.
+
+- *📝 Custom Item Addition*
+  - Add your own items to any section, and manage them just like default items.
+  
+- *👜 My Selection*
+  - View all the items you've ticked (packed items) in one place.
+
+- *🔍 Search Items*
+  - Quickly find any item in your packing list using the search bar.
+
+- *❌ Delete Items*
+  - Remove unwanted items from your list with a simple delete feature.
+
+- *🔄 Reset to Default Data*
+  - Reset the app to its default version, removing all custom items and restoring original packing lists.
+
+- *🗑️ Delete Default Data*
+  - Delete all default items while keeping only your custom selections.
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/your_image_url/bag-packing-app.gif" width="900">
+
+## ⚙️ Technologies Used ⚙️
+1. *🟩 Java*
+   - The primary programming language for developing the Android application.
+
+2. *📱 Android Studio*
+   - The IDE used to develop and debug the app.
+
+3. *🖼️ XML*
+   - Used for designing the app's user interface and layout.
+
+4. *💾 SQLite*
+   - Local database used to store user data, such as packing lists and custom items.
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/your_image_url/bag-packing-app.gif" width="900">
+
+## 📸 Screenshots 📸
+Here are some screenshots from the *Travelbag Pack* app:
 
 <table>
   <tr>
@@ -29,3 +93,8 @@ Here are the screenshots of my project in a grid layout:
   </tr>
 </table>
 
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/your_image_url/bag-packing-app.gif" width="900">
+
+## 📄 Ending Note
+Thank you for checking out *Travelbag Pack*! This app aims to make your packing experience stress-free and organized. If you have any feedback or suggestions for improvement, feel free to reach out. Enjoy your trip with a perfectly packed bag!
